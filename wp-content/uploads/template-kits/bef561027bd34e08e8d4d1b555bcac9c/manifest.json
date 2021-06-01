@@ -1,0 +1,831 @@
+{
+    "manifest_version": "1.0.17",
+    "title": "Bildo - Construction Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.png",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.png",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.png",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio Grid",
+            "screenshot": "screenshots\/portfolio-grid.png",
+            "source": "templates\/portfolio-grid.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/portfolio-grid\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio Masonry",
+            "screenshot": "screenshots\/portfolio-masonry.png",
+            "source": "templates\/portfolio-masonry.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/portfolio-masonry\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio Group",
+            "screenshot": "screenshots\/portfolio-group.png",
+            "source": "templates\/portfolio-group.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/portfolio-group\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.png",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Get a quote",
+            "screenshot": "screenshots\/get-a-quote.png",
+            "source": "templates\/get-a-quote.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/get-a-quote\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.png",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/nddesigners.com\/ndbildo\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.8",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.14",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo-buildo-footer.png",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/Logo-buildo-footer.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4004,
+            "dimensions": [
+                278,
+                108
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "three-workers-examining-building-plans-and-talking-VLKV7YU.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/three-workers-examining-building-plans-and-talking-VLKV7YU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 244812,
+            "dimensions": [
+                1498,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-workers-examining-building-plans-and-talking-VLKV7YU"
+        },
+        {
+            "filename": "worker-in-reflective-vest-and-hardhat-standing-in-DKPC7M5-1.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/worker-in-reflective-vest-and-hardhat-standing-in-DKPC7M5-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 109122,
+            "dimensions": [
+                500,
+                635
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/worker-in-reflective-vest-and-hardhat-standing-in--DKPC7M5"
+        },
+        {
+            "filename": "architect-woman-wearing-construction-helmet-and-ho-ABDVAZ9.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/architect-woman-wearing-construction-helmet-and-ho-ABDVAZ9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 127360,
+            "dimensions": [
+                1000,
+                1082
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architect-woman-wearing-construction-helmet-and-ho-ABDVAZ9"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 28784,
+            "dimensions": [
+                250,
+                349
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-foreman-on-construction-background-PU4UJZD"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 27805,
+            "dimensions": [
+                250,
+                349
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-workers-examining-building-plans-and-talking-VLKV7YU"
+        },
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 21048,
+            "dimensions": [
+                250,
+                349
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architect-with-construction-plan-6GALDXE"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 26406,
+            "dimensions": [
+                250,
+                349
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/civil-engineer-and-construction-manager-in-orange--LQ9X3NJ"
+        },
+        {
+            "filename": "architect-or-engineer-with-blueprints-meeting-with-TZBYDDE.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/architect-or-engineer-with-blueprints-meeting-with-TZBYDDE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 197830,
+            "dimensions": [
+                1444,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architect-or-engineer-with-blueprints-meeting-with-TZBYDDE"
+        },
+        {
+            "filename": "builder@2x.png",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/builder@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 1987,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-icons-pack-H75WNLZ"
+        },
+        {
+            "filename": "custome.png",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 105246,
+            "dimensions": [
+                400,
+                369
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-happy-persian-man-construction-worker-smilin-LWP8PVV"
+        },
+        {
+            "filename": "logos-1.png",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/logos-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 85907,
+            "dimensions": [
+                1980,
+                356
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "civil-engineer-and-construction-manager-in-orange-LQ9X3NJ.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/civil-engineer-and-construction-manager-in-orange-LQ9X3NJ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/get-a-quote.json",
+                    "name": "Get a quote"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 204658,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/civil-engineer-and-construction-manager-in-orange--LQ9X3NJ"
+        },
+        {
+            "filename": "three-workers-examining-building-plans-and-talking-VLKV7YU-1.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/three-workers-examining-building-plans-and-talking-VLKV7YU-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 244812,
+            "dimensions": [
+                1498,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/three-workers-examining-building-plans-and-talking-VLKV7YU"
+        },
+        {
+            "filename": "hard-hat-construction-safety-CA5WQ36.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/hard-hat-construction-safety-CA5WQ36.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 163942,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hard-hat-construction-safety-CA5WQ36"
+        },
+        {
+            "filename": "diverse-group-of-people-community-togetherness-tec-P4H7UUF.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/diverse-group-of-people-community-togetherness-tec-P4H7UUF.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 140238,
+            "dimensions": [
+                1980,
+                1057
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/diverse-group-of-people-community-togetherness-tec-P4H7UUF"
+        },
+        {
+            "filename": "construction-project-papers-PEX9USM.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/construction-project-papers-PEX9USM.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 131033,
+            "dimensions": [
+                1415,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-project-papers-PEX9USM"
+        },
+        {
+            "filename": "instruments-on-wooden-table-PDH8832.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/instruments-on-wooden-table-PDH8832.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 267558,
+            "dimensions": [
+                1499,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/instruments-on-wooden-table-PDH8832"
+        },
+        {
+            "filename": "construction-helmet-on-black-PX48VMU.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/construction-helmet-on-black-PX48VMU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-grid.json",
+                    "name": "Portfolio Grid"
+                },
+                {
+                    "source": "templates\/portfolio-masonry.json",
+                    "name": "Portfolio Masonry"
+                },
+                {
+                    "source": "templates\/portfolio-group.json",
+                    "name": "Portfolio Group"
+                }
+            ],
+            "filesize": 142061,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-helmet-on-black-PX48VMU"
+        },
+        {
+            "filename": "21-Construction-Workers.jpg",
+            "thumbnail_url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/21-Construction-Workers.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 48106,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/construction-workers-vector-illustration-GE3X9ZN"
+        }
+    ]
+}

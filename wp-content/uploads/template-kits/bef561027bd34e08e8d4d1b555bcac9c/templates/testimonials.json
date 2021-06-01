@@ -1,0 +1,880 @@
+{
+    "version": "0.4",
+    "title": "Testimonials",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "aa28b84",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": 303,
+                    "sizes": []
+                },
+                "custom_height_tablet": {
+                    "unit": "px",
+                    "size": 186,
+                    "sizes": []
+                },
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/civil-engineer-and-construction-manager-in-orange-LQ9X3NJ.jpg",
+                    "id": 77
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#000000",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.58,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "15",
+                    "right": "15",
+                    "bottom": "15",
+                    "left": "15",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "6d940d09",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "4a40c633",
+                            "settings": {
+                                "title": "",
+                                "align": "left",
+                                "align_mobile": "center",
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"3a93972\" name=\"page-title\" settings=\"%7B%7D\"]"
+                                },
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=primary",
+                                    "title_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "384d0fa5",
+                            "settings": {
+                                "width": {
+                                    "unit": "%",
+                                    "size": 8,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 21,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center",
+                                "text": "Divider",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "26fd3cf",
+                            "settings": {
+                                "title": "Nibh laboriosam maecenas minim blandit, rerum laboris ",
+                                "header_size": "p",
+                                "align_mobile": "center",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "normal",
+                                "typography_line_height_tablet": {
+                                    "unit": "em",
+                                    "size": 1.5,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5c3a3bdb",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "67dd18da",
+            "settings": {
+                "background_background": "classic",
+                "background_color": "#F4F4F4",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "50",
+                    "bottom": "70",
+                    "left": "50",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "20",
+                    "left": "20",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "3d300047",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "5f2e2a37",
+                            "settings": {
+                                "width": {
+                                    "unit": "%",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "look": "line_text",
+                                "text": "Testimonials",
+                                "weight": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_typography": "custom",
+                                "typography_font_family": "Open Sans",
+                                "typography_font_weight": "600",
+                                "_animation": "fadeInLeft",
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": 55,
+                                    "sizes": []
+                                },
+                                "align_mobile": "center",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "37f5c03f",
+                            "settings": {
+                                "title": "HAPPY CLIENTS",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 67,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "700",
+                                "align": "center",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "173e80f0",
+                            "settings": {
+                                "content_position": "middle",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "30",
+                                    "left": 0,
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "76fba7c2",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/architect-or-engineer-with-blueprints-meeting-with-TZBYDDE.jpg",
+                                            "id": 275
+                                        },
+                                        "background_position": "top center",
+                                        "background_repeat": "no-repeat",
+                                        "background_size": "cover"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4d12ca0d",
+                                            "settings": {
+                                                "space": {
+                                                    "unit": "px",
+                                                    "size": 328,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "spacer",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "27a46c13",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "center",
+                                        "align": "center",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "background_overlay_background": "classic",
+                                        "background_overlay_image": {
+                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/builder@2x.png",
+                                            "id": 287
+                                        },
+                                        "background_overlay_position": "bottom right",
+                                        "background_overlay_repeat": "no-repeat",
+                                        "background_overlay_size": "initial",
+                                        "background_overlay_bg_width": {
+                                            "unit": "%",
+                                            "size": 22,
+                                            "sizes": []
+                                        },
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 0.18,
+                                            "sizes": []
+                                        },
+                                        "overlay_blend_mode": "luminosity",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4b038fda",
+                                            "settings": {
+                                                "slides": [
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "77cdec4"
+                                                    },
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "fc82470"
+                                                    },
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "ef38e04"
+                                                    }
+                                                ],
+                                                "alignment": "left",
+                                                "slides_per_view": "1",
+                                                "slides_to_scroll": "1",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "pagination": "",
+                                                "pause_on_hover": "",
+                                                "pause_on_interaction": "",
+                                                "slide_border_size": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "content_typography_typography": "custom",
+                                                "content_typography_font_family": "Open Sans",
+                                                "content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "content_typography_font_weight": "400",
+                                                "name_typography_typography": "custom",
+                                                "name_typography_font_family": "Open Sans",
+                                                "name_typography_font_weight": "800",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Open Sans",
+                                                "title_typography_font_weight": "400",
+                                                "arrows_size": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "slides_per_view_mobile": "1",
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "content_color": "globals\/colors?id=text",
+                                                    "name_color": "globals\/colors?id=primary",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "testimonial-carousel",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "4afc9adb",
+                            "settings": {
+                                "content_position": "middle",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "30",
+                                    "left": 0,
+                                    "isLinked": true
+                                },
+                                "reverse_order_mobile": "reverse-mobile"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3e62d30d",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "center",
+                                        "align": "center",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "background_overlay_background": "classic",
+                                        "background_overlay_image": {
+                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/builder@2x.png",
+                                            "id": 287
+                                        },
+                                        "background_overlay_position": "bottom right",
+                                        "background_overlay_repeat": "no-repeat",
+                                        "background_overlay_size": "initial",
+                                        "background_overlay_bg_width": {
+                                            "unit": "%",
+                                            "size": 22,
+                                            "sizes": []
+                                        },
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 0.18,
+                                            "sizes": []
+                                        },
+                                        "overlay_blend_mode": "luminosity",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "334308d",
+                                            "settings": {
+                                                "slides": [
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "77cdec4"
+                                                    },
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "fc82470"
+                                                    },
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "ef38e04"
+                                                    }
+                                                ],
+                                                "alignment": "left",
+                                                "slides_per_view": "1",
+                                                "slides_to_scroll": "1",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "pagination": "",
+                                                "pause_on_hover": "",
+                                                "pause_on_interaction": "",
+                                                "slide_border_size": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "content_typography_typography": "custom",
+                                                "content_typography_font_family": "Open Sans",
+                                                "content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "content_typography_font_weight": "400",
+                                                "name_typography_typography": "custom",
+                                                "name_typography_font_family": "Open Sans",
+                                                "name_typography_font_weight": "800",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Open Sans",
+                                                "title_typography_font_weight": "400",
+                                                "arrows_size": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "slides_per_view_mobile": "1",
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "content_color": "globals\/colors?id=text",
+                                                    "name_color": "globals\/colors?id=primary",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "testimonial-carousel",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2319e53a",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/hard-hat-construction-safety-CA5WQ36.jpg",
+                                            "id": 76
+                                        },
+                                        "background_position": "top center",
+                                        "background_repeat": "no-repeat",
+                                        "background_size": "cover"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7e9b978e",
+                                            "settings": {
+                                                "space": {
+                                                    "unit": "px",
+                                                    "size": 328,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "spacer",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "66f9d106",
+                            "settings": {
+                                "content_position": "middle",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "30",
+                                    "left": 0,
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "603828d5",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "background_background": "classic",
+                                        "background_image": {
+                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/construction-project-papers-PEX9USM.jpg",
+                                            "id": 164
+                                        },
+                                        "background_position": "top center",
+                                        "background_repeat": "no-repeat",
+                                        "background_size": "cover"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "597d4046",
+                                            "settings": {
+                                                "space": {
+                                                    "unit": "px",
+                                                    "size": 328,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "spacer",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4061db2",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "content_position": "center",
+                                        "align": "center",
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "background_overlay_background": "classic",
+                                        "background_overlay_image": {
+                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/builder@2x.png",
+                                            "id": 287
+                                        },
+                                        "background_overlay_position": "bottom right",
+                                        "background_overlay_repeat": "no-repeat",
+                                        "background_overlay_size": "initial",
+                                        "background_overlay_bg_width": {
+                                            "unit": "%",
+                                            "size": 22,
+                                            "sizes": []
+                                        },
+                                        "background_overlay_opacity": {
+                                            "unit": "px",
+                                            "size": 0.18,
+                                            "sizes": []
+                                        },
+                                        "overlay_blend_mode": "luminosity",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "10",
+                                            "right": "10",
+                                            "bottom": "10",
+                                            "left": "10",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "f16c817",
+                                            "settings": {
+                                                "slides": [
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "77cdec4"
+                                                    },
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "fc82470"
+                                                    },
+                                                    {
+                                                        "content": "Id, amet, labore, mollis iaculis cillum potenti ex sem impedit distinctio in, pede mollit odio unde. Curae nostra faucibus blanditiis habitant dolorem, quo laborum doloribus elit magnam metus, enim commodo commodo ornare! Iste porro blandit platea",
+                                                        "name": "John Doe",
+                                                        "title": "Customer",
+                                                        "image": {
+                                                            "url": "https:\/\/nddesigners.com\/ndbildo\/wp-content\/uploads\/2020\/11\/custome.png",
+                                                            "id": 277
+                                                        },
+                                                        "_id": "ef38e04"
+                                                    }
+                                                ],
+                                                "alignment": "left",
+                                                "slides_per_view": "1",
+                                                "slides_to_scroll": "1",
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "pagination": "",
+                                                "pause_on_hover": "",
+                                                "pause_on_interaction": "",
+                                                "slide_border_size": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "content_typography_typography": "custom",
+                                                "content_typography_font_family": "Open Sans",
+                                                "content_typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "content_typography_font_weight": "400",
+                                                "name_typography_typography": "custom",
+                                                "name_typography_font_family": "Open Sans",
+                                                "name_typography_font_weight": "800",
+                                                "title_typography_typography": "custom",
+                                                "title_typography_font_family": "Open Sans",
+                                                "title_typography_font_weight": "400",
+                                                "arrows_size": {
+                                                    "unit": "px",
+                                                    "size": 0,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "15",
+                                                    "right": "15",
+                                                    "bottom": "15",
+                                                    "left": "15",
+                                                    "isLinked": false
+                                                },
+                                                "slides_per_view_mobile": "1",
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": 100,
+                                                    "sizes": []
+                                                },
+                                                "_padding_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "__globals__": {
+                                                    "content_color": "globals\/colors?id=text",
+                                                    "name_color": "globals\/colors?id=primary",
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "testimonial-carousel",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}
